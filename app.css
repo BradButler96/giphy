@@ -1,0 +1,52 @@
+body {
+    background-color: #1F2022;
+}
+
+h1 {
+    margin: 1rem 0.25rem 0.5rem 0.25rem;
+    color: antiquewhite;
+    text-align: center;
+}
+
+#input {
+    margin: 0rem 1rem 1rem 1rem;
+    width: 25rem;
+}
+
+#search-page {
+    text-align: center;
+}
+
+#res-page {
+    text-align: center;
+    margin: 1rem;
+}
+
+.imgDiv {
+    display: inline-block;
+    margin: 0.5rem;
+}
+
+img {
+    height: 200px;
+}
+
+button {
+    padding: 0.75rem;
+    margin: 0 0.5rem 0 0.5rem;
+    width: 10rem;
+    background-color: antiquewhite;
+    color: #463084;
+    border-color: #463084;
+    border-radius: 2rem;
+    border-width: thick;
+    font-family: Monospace;
+    font-weight: bold;
+    font-size: large;
+}
+
+button:hover {
+    background-color: #463084;
+    color: antiquewhite;
+    border-color: antiquewhite;
+}
